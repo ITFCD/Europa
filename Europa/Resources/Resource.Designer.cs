@@ -44,17 +44,23 @@ namespace Europa
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f040002
+			public const int CDown = 2130968578;
+			
+			// aapt resource value: 0x7f040004
+			public const int MScount = 2130968580;
+			
 			// aapt resource value: 0x7f040001
-			public const int CDown = 2130968577;
+			public const int linearLayout1 = 2130968577;
 			
 			// aapt resource value: 0x7f040003
-			public const int MScount = 2130968579;
+			public const int linearLayout2 = 2130968579;
+			
+			// aapt resource value: 0x7f040005
+			public const int linearLayout3 = 2130968581;
 			
 			// aapt resource value: 0x7f040000
-			public const int linearLayout1 = 2130968576;
-			
-			// aapt resource value: 0x7f040002
-			public const int linearLayout2 = 2130968578;
+			public const int textView1 = 2130968576;
 			
 			static Id()
 			{
